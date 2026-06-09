@@ -81,5 +81,4 @@ Full details of the prompts are available in [`prompts_used.md`](./prompts_used.
 
 ## ⚠️ Note
 The original dataset used in this project is part of a guided learning program by [Codebasics](https://codebasics.io/).  
-👉 Due to licensing restrictions, the dataset is **not shared** here.  
 All code, workflows, and insights are my own implementation.
